@@ -34,6 +34,7 @@ bash
 Copy
 Edit
 git clone https://github.com/akashdas2004/TalkSync.git
+
 cd TalkSync
 
 npm install
@@ -59,17 +60,24 @@ npx expo start
 markdown
 Copy
 Edit
+
 TalkSync/
+
 ├── App.js
+
 ├── constants.js
+
 ├── firebaseConfig.js / supabase.js
+
 └── screens/
     ├── ChatsScreen.js
     ├── ChatScreen.js
     ├── StatusScreen.js
     ├── CallsScreen.js
     └── SettingsScreen.js
+    
 🙌 Contributions
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you’d like to change or build.
 
 📄 License
