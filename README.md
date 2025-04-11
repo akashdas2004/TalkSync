@@ -70,10 +70,15 @@ TalkSync/
 ├── firebaseConfig.js / supabase.js
 
 └── screens/
+
     ├── ChatsScreen.js
+    
     ├── ChatScreen.js
+    
     ├── StatusScreen.js
+    
     ├── CallsScreen.js
+    
     └── SettingsScreen.js
     
 🙌 Contributions
