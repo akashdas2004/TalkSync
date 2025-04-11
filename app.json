@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "TalkSync",
+    "slug": "TalkSync",
+    
+    "experimental": {
+      "newArchEnabled": true
+    }
+  }
+}
