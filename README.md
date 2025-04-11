@@ -37,7 +37,9 @@ git clone https://github.com/akashdas2004/TalkSync.git
 cd TalkSync
 
 npm install
+
 npx expo install @react-navigation/native @react-navigation/stack @react-navigation/material-top-tabs react-native-screens react-native-safe-area-context react-native-tab-view react-native-pager-view @expo/vector-icons react-native-gesture-handler react-native-reanimated react-native-svg
+
 npx expo start
 
 ⚠️ You must have Expo CLI and an Android emulator or Expo Go installed on your device.
